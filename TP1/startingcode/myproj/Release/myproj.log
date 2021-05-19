@@ -1,0 +1,14 @@
+﻿  main.cpp
+  myCamera.cpp
+  myObject3D.cpp
+  myShader.cpp
+nfd.lib(nfd_win.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  All 590 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+nfd.lib(nfd_win.obj) : warning LNK4049: locally defined symbol _sprintf_s imported
+nfd.lib(nfd_common.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'nfd.lib(nfd_common.obj)' or at 'C:\Users\nabil\Dropbox\ESIEE-IN4I24-17\TP1\startingcode\Release\vc110.pdb'; linking object as if no debug info
+nfd.lib(nfd_win.obj) : warning LNK4099: PDB 'vc110.pdb' was not found with 'nfd.lib(nfd_win.obj)' or at 'C:\Users\nabil\Dropbox\ESIEE-IN4I24-17\TP1\startingcode\Release\vc110.pdb'; linking object as if no debug info
+  myproj.vcxproj -> C:\Users\nabil\Dropbox\ESIEE-IN4I24-17\TP1\startingcode\Release\myproj.exe
+  myproj.vcxproj -> C:\Users\nabil\Dropbox\ESIEE-IN4I24-17\TP1\startingcode\Release\myproj.pdb (Full PDB)
